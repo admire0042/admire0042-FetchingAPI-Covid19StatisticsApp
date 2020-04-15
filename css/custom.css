@@ -1,0 +1,87 @@
+/* img{
+    width:600px;
+} */
+
+body{
+    background-image:url("../images/img7.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+ul li{
+    color:black;
+    font-size:25px;
+}
+ul{
+    list-style: none;
+}
+
+.ul2 li{
+    color: white;
+}
+.list1{
+    padding: 5px;
+    background-color:black;
+    color:white;
+    cursor:pointer;
+}
+
+.ulist1 li{
+    padding: 5px;
+    background-color:black;
+    color:white;
+}
+
+.red{
+    color:red;
+    font-size:35px;
+    font-weight:bold;
+}
+.image{
+    margin-top:58px;
+    background-image: url("../images/img8.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:70vh;
+}
+.heading{
+    background-color: black;
+    font-size: 25px;
+    position: fixed;
+    z-index:999;
+}
+.middle{
+    font-size:35px;
+    text-align:center;
+}
+.sect-2{
+    margin-top:80px;
+}
+.heading-coun{
+    font-size:40px;
+}
+
+#countries{
+        width: 500px;
+        height: 810px;
+        overflow: auto;
+      }
+#countries{
+    margin-right:20px;
+    color:black;
+}
+.nigeria{
+    margin-left:-20px;
+}
+
+.count-pr h3{
+    padding:5px;
+    color:white;
+    background-color: black;
+    text-align:center;
+}
+.header{
+    background-color: lightslategray;
+    font-size:15px;
+    font-weight:bold;
+    
+}
